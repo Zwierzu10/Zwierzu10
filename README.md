@@ -66,25 +66,36 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
 </div>
 
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Zwierzu10">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zwierzu10&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Zwierzu10's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Zwierzu10&theme=radical&hide_border=true&cache_seconds=86400" alt="Zwierzu10's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Zwierzu10&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
+
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://github.com/Zwierzu10">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zwierzu10&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+![Top language](https://stats.pphat.top/languages?username=Zwierzu10)
+<br/>
+
+
+
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Zwierzu10&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/Zwierzu10/Zwierzu10/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zwierzu10/Zwierzu10/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zwierzu10/Zwierzu10/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zwierzu10/Zwierzu10/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Zwierzu10/Zwierzu10/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
